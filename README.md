@@ -16,7 +16,7 @@ Currently honing my skills in various aspects of computer science, I specialize 
 I have been working on several private repositories, and you can request access to them if you are interested in exploring my projects.
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)](https://www.linkedin.com/in/forselldaniel/)
+- LinkedIn: https://www.linkedin.com/in/forselldaniel/
 - Email: Daniel.forsell2002@hotmail.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect! 😊
