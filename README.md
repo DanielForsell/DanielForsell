@@ -1,19 +1,20 @@
 # Hello, I'm Daniel Forsell 👋
 
 ## About Me
-I am a second-year student at Tietojenkäsittelytiede (Computer Science) with a passion for coding and problem-solving. 
-Currently honing my skills in various aspects of computer science, I specialize in Java programming.
+I am a third-year Computer Science student with a passion for creating innovative solutions and tackling complex problems. My expertise lies in Java programming, but I have also developed strong skills in JavaScript, React, and embedded systems programming.
 
 ## Education
-- **Tietojenkäsittelytiede 2. vuosi (Computer Science, 2nd year)**
+- **Tietojenkäsittelytiede 3. vuosi (Computer Science, 3nd year)**
   - Oulu University
 
 ## Skills
-- **Programming Languages:** Java and C
+- **Programming Languages:**
+  • Programming Languages: Java, JavaScript, React, C
+	•	Embedded Systems Programming: Sensor data handling, real-time operating systems (TI-RTOS), I2C, UART, and gyroscope/accelerometer integration
 
 
 ## Projects
-I have been working on several private repositories, and you can request access to them if you are interested in exploring my projects.
+I have worked on various projects, including sensor-based applications and state machine implementations for real-time systems. Most of my repositories are private, but feel free to reach out if you’re interested in exploring them!
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/forselldaniel/
